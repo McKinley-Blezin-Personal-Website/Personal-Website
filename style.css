@@ -3,7 +3,23 @@ body{
   }
 
 #box1{ 
-    width: 500px;
-    height: 500px;
-    background-color: lightblue;}
+    width: 540px;
+    height: 400px;
+    background-color: lightblue;
+    padding-top: 4%;
+    padding-left: 3%;
+}
+    
 
+.tv { 
+        border: dotted;
+        background-color: rgb(139, 49, 223);
+        width: 200px;
+        padding-left: 3%;
+    }
+
+
+#logo {
+    width: 10px;
+    height: 10px;
+}
