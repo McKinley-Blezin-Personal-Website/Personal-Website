@@ -1,5 +1,5 @@
 body{
-    background: #336EFF;    
+    background: #336EFF;
   }
 
 #box1{ 
@@ -9,17 +9,34 @@ body{
     padding-top: 4%;
     padding-left: 3%;
 }
-    
 
 .tv { 
-        border: dotted;
-        background-color: rgb(139, 49, 223);
-        width: 200px;
-        padding-left: 3%;
+    border: dotted;
+    background-color: rgb(149, 78, 215);
+    width: 200px;
+    padding-left: 3%;
     }
-
+.food{
+    background-color: blueviolet;
+    border: dotted;
+    width: 200px;
+    padding-left: 3%;
+}
 
 #logo {
     width: 10px;
     height: 10px;
+}
+.clicks {
+    background-color: rgb(245, 217, 183);
+    width: 500px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.mainbox{
+    background-color: beige;
+    width: 50%;
+    font-style: italic;
 }
